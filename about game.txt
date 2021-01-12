@@ -1,0 +1,26 @@
+DESKRIPSI GAME :
+
+Judul : Kezel Plane
+
+Ini merupakan game bergenre arcade dengan konsep mirip dengan game flappy bird
+akan tetapi untuk player nya menggunakan sebuah pesawat.
+game ini dibuat berdasarkan tutorial yang ada di yutub. 
+assetnya pun sama, akan tetapi background, player, dan sedikit tulisannya ada yang dirubah.
+
+Dibuat Oleh :
+"GunruhDev"
+
+Gugun Ruhyat
+(20170810067)
+
+Wafda Muhamad
+(20170810060)
+
+Mohamad Erdin Syarifudin
+(20170810051)
+
+Alfansa Abby Mulyawan
+(20170810149)
+
+Fikri Azzimatu Tirta
+(20170810064)
